@@ -1,9 +1,9 @@
-.marquee {
+/* .marquee {
   position: relative;
   width: 100vw;
   max-width: 100%;
   height: 22px;
-  margin-top: -8px;
+  margin-top: -2px;
 }
 .content{
   color: white;
@@ -22,4 +22,17 @@
 @keyframes marquee {
   from { transform: translateX(0); }
   to { transform: translateX(-50%); }
+} */
+
+.cont>p{
+  color: black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  font-size: 13px;
+  background-color: rgb(206, 197, 197);
+  height: 30px;
+  
+
+
 }
+
